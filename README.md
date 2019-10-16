@@ -1,7 +1,7 @@
 # GWAS
 GWAS Summary Statistics for Brain Imaging Pheonotypes 
 
-Involved datasets: UK Biobank (UKB), Human Connectome Project (HCP), Philadelphia Neurodevelopmental Cohort (PNC), Alzheimer's Disease  Neuroimaging Initiative (ADNI), Pediatric Imaging, Neurocognition, and Genetics (PING)
+Involved datasets: UK Biobank (UKB), Human Connectome Project (HCP), Philadelphia Neurodevelopmental Cohort (PNC), Alzheimer's Disease`  Neuroimaging Initiative (ADNI), Pediatric Imaging, Neurocognition, and Genetics (PING)
 
 # The GWAS summary statistics for 101 brain regional volumes 
 Sample size n=19,629
