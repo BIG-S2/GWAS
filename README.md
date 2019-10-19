@@ -10,7 +10,7 @@ Version: May24, 2019
 
 Link: https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/
 
-Citation: Zhao et al. (2019) GWAS of 19,629 individuals identifies novel genetic variants for regional brain volumes and refines their genetic co-architecture with cognitive and mental health traits.  Nature Genetics, in press.    
+Citation: Zhao et al. (2019) GWAS of 19,629 individuals identifies novel genetic variants for regional brain volumes and refines their genetic co-architecture with cognitive and mental health` traits. Nature Genetics, in press.
 
 ## 2. The GWAS summary statistics for 110 brain regional diffusion tensor imaging (DTI) parameters
 Sample size n=17,706
