@@ -8,7 +8,7 @@ Total sample size:   **>40,000**
 ## 1. The GWAS summary statistics for 215 tract-specific diffusion tensor imaging (DTI) parameters
 Sample size n=33,292
 
-Version: May 22, 2020
+Version: May22, 2020
 
 Link: https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/
 
