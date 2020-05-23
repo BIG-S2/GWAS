@@ -1,5 +1,5 @@
 # GWAS
-GWAS Summary Statistics for Brain Imaging Pheonotypes 
+GWAS Summary Statistics for Brain Imaging Phenotypes 
 
 Involved datasets: UK Biobank (UKB), Adolescent Brain Cognitive Development (ABCD) Study, Human Connectome Project (HCP), Philadelphia Neurodevelopmental Cohort (PNC), Alzheimer's Disease`  Neuroimaging Initiative (ADNI), Pediatric Imaging, Neurocognition, and Genetics (PING) 
 
