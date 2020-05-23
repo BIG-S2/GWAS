@@ -3,9 +3,7 @@ GWAS Summary Statistics for Brain Imaging Pheonotypes
 
 Involved datasets: UK Biobank (UKB), Adolescent Brain Cognitive Development (ABCD) Study, Human Connectome Project (HCP), Philadelphia Neurodevelopmental Cohort (PNC), Alzheimer's Disease`  Neuroimaging Initiative (ADNI), Pediatric Imaging, Neurocognition, and Genetics (PING) 
 
-Total sample size: 
-```diff
-- 40000
+Total sample size: ```diff - >40000
 ```
 
 ## 1. The GWAS summary statistics for 101 brain regional volumes 
