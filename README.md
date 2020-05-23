@@ -14,7 +14,7 @@ Link: https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/
 
 Citation: Zhao et al. (2020) The comprehensive genetic architecture of brain white matter. Preprint available at TBD. 
 
-[**Explore GWAS results in Brain Imaging Genetics Knowledge Portal (BIG-KP)**](https://bigkp.web.unc.edu/) 
+**Explore GWAS results in [Brain Imaging Genetics Knowledge Portal (BIG-KP)**](https://bigkp.web.unc.edu/)
 
 ## 2. The GWAS summary statistics for 101 brain regional volumes 
 Sample size n=19,629
