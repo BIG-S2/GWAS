@@ -32,6 +32,6 @@ Version: March11, 2019
 
 Link: https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/
 
-Citation: Zhao et al. (2019) Large-scale GWAS reveals genetic architecture of brain white matter microstructure and genetic overlap with cognitive and mental health` traits (n=17,706). Preprint available at https://doi.org/10.1101/288555. 
+Citation: Zhao et al. (2019) Large-scale GWAS reveals genetic architecture of brain white matter microstructure and genetic overlap with cognitive and mental health` traits (n=17,706). ***Molecular Psychiatry.*** https://www.nature.com/articles/s41380-019-0569-z
 
 
