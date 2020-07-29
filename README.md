@@ -12,7 +12,7 @@ Version: May22, 2020
 
 Link: https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/
 
-Citation: Zhao et al. (2020) The comprehensive genetic architecture of brain white matter. Preprint available at TBD. 
+Citation: Zhao et al. (2020) Common genetic variation influencing human white matter microstructure. Preprint available at https://doi.org/10.1101/2020.05.23.112409 
 
 **Explore GWAS results in**
 [**Brain Imaging Genetics Knowledge Portal (BIG-KP)**](https://bigkp.web.unc.edu/)
