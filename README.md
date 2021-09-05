@@ -17,7 +17,7 @@ Citation: Zhao et al (2020) Common variants contribute to intrinsic functional a
 ## 2. The GWAS summary statistics for 215 tract-specific diffusion tensor imaging (DTI) parameters
 Sample size n=33,292
 
-Version: May22, 2020
+Version: May 22, 2020
 
 Link: https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/
 
@@ -29,7 +29,7 @@ Citation: Zhao et al (2021) Common genetic variation influencing human white mat
 ## 3. The GWAS summary statistics for 101 brain regional volumes 
 Sample size n=19,629
 
-Version: May24, 2019
+Version: May 24, 2019
 
 Link: https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/
 
@@ -39,7 +39,7 @@ Citation: Zhao et al. (2019) Genome-wide association analysis of 19,629 individu
 ## 4. The GWAS summary statistics for 110 brain regional diffusion tensor imaging (DTI) parameters
 Sample size n=17,706
 
-Version: March11, 2019
+Version: March 11, 2019
 
 Link: https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/
 
