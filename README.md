@@ -10,7 +10,7 @@ Sample size n=34, 691
 
 Version: July 15, 2020
 
-Link: https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/#GWAS_summary_statistics_for_200_resting-state_functional_MRI_rs-fMRI_traits
+Link: https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/
 
 Citation: Zhao et al (2020) Common variants contribute to intrinsic functional architecture of human brain. Preprint available at https://www.biorxiv.org/content/10.1101/2020.07.30.229914v1.
 
@@ -21,10 +21,10 @@ Version: May22, 2020
 
 Link: https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/
 
-Citation: Zhao et al. (2020) Common genetic variation influencing human white matter microstructure. Preprint available at https://doi.org/10.1101/2020.05.23.112409 
+Citation: Zhao et al (2021) Common genetic variation influencing human white matter microstructure. ***Science.*** https://doi.org/10.1101/2020.07.30.229914 
 
 **Explore GWAS results in**
-[**Brain Imaging Genetics Knowledge Portal (BIG-KP)**](https://bigkp.web.unc.edu/)
+[**Brain Imaging Genetics Knowledge Portal (BIG-KP)**](http://165.227.78.169:443/)
 
 ## 3. The GWAS summary statistics for 101 brain regional volumes 
 Sample size n=19,629
