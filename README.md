@@ -14,7 +14,7 @@ Link: https://www.med.unc.edu/bigs2/data/gwas-summary-statistics/
 
 Citation: Zhao et al (2020) Common variants contribute to intrinsic functional architecture of human brain. Preprint available at https://www.biorxiv.org/content/10.1101/2020.07.30.229914v1.
 
-## 2. The GWAS summary statistics for 215 tract-specific diffusion tensor imaging (DTI) parameters
+## 2. The GWAS summary statistics for 635 tract-specific diffusion tensor imaging (DTI) parameters
 Sample size n=33,292
 
 Version: May 22, 2020
